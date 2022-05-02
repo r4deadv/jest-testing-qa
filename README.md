@@ -29,3 +29,8 @@ Run `npm i` to install dependencies
 ### Part II
 
 * Run `npm test` - What happens? Why?
+* Write tests for all math funcs
+
+### Part III
+
+* 
