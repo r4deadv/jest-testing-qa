@@ -16,9 +16,8 @@
 ```
 * Added Readme with `touch README.md`
 * Created `.gitignore` file with `touch .gitignore` and added `node_modules` so that node_modules would not be committed to github repo
-* Create `math.js` file
-* Create `add function`, `subtract function` with error, `multiply function`, and `divide function` in `math.js` file
-* Export all functions from file
+* Create textValidation.js file with funcs 
+* Create `math.js` file with `add function`, `subtract function` with error, `multiply function`, and `divide function` in `math.js` file
 
 ## Project Setup (to-do)
 
@@ -28,9 +27,12 @@ Run `npm i` to install dependencies
 
 ### Part II
 
-* Run `npm test` - What happens? Why?
+* Review files and their contents
+* Create test file for `textValidation.js`
+* Write unit tests
+* Write integration test 
+* Write async test
+
+### Part III (on your own, optional)
+
 * Write tests for all math funcs
-
-### Part III
-
-* 
